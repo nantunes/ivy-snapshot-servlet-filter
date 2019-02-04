@@ -51,8 +51,8 @@
     <pentaho.public.release.repo>http://nexus.pentaho.org/content/repositories/public-release/</pentaho.public.release.repo>
     <pentaho.public.snapshot.repo>http://nexus.pentaho.org/content/repositories/public-snapshot/</pentaho.public.snapshot.repo>
 
-    <slf4j-api.version>1.7.7</slf4j-api.version>
-    <slf4j-log4j12.version>1.7.7</slf4j-log4j12.version>
+    <slf4j-api.version>1.7.12</slf4j-api.version>
+    <slf4j-log4j12.version>1.7.12</slf4j-log4j12.version>
 
     <mockito-all.version>1.10.19</mockito-all.version>
     <powermock-module-junit4.version>1.6.6</powermock-module-junit4.version>
